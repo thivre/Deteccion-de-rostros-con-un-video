@@ -1,2 +1,2 @@
-# Detecci-n-de-rostros-en-base-a-un-video
+# Deteccion-de-rostros-en-base-a-un-video
 Detección de rostros CNN
